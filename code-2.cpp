@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  cout << "Hello Git in C++";
+  cout << "Hello C++";
   return 0;
 
 }
